@@ -1,4 +1,4 @@
-# 📄 Rule-Based Chatbot Assisted Analysis Report of 10-K and 10-Q
+## 📄 Rule-Based Chatbot Assisted Analysis Report of 10-K and 10-Q
 
 Welcome to the **Rule-Based Chatbot Assisted Analysis Report of 10-K and 10-Q** repository! This project involves analyzing financial data from SEC filings, deriving key financial metrics, and providing interactive insights through a rule-based chatbot.
 ---
